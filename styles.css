@@ -1,0 +1,191 @@
+.popup {
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    z-index: 9999;
+    position:absolute;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 150%;
+    display: inline-block;
+    border-radius: 25px;
+  }
+  .popupA {
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    z-index: 9999;
+    position:absolute;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 150%;
+    display: inline-block;
+    border-radius: 25px;
+  }
+  .popupB {
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    z-index: 9999;
+    position:absolute;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 150%;
+    display: inline-block;
+    border-radius: 25px;
+  }
+  #addStoryPrompt {
+      margin-top: 100px;
+  }
+  #sendMessagePrompt {
+    margin-top: 100px;
+    margin-left: 200px;
+  }
+  #text1{
+    margin-top: -250px;
+  }
+  #text2 {
+    margin-top: -100px;
+  }
+  #text3 {
+    margin-top: -350px;
+  }
+  #disclaimer {
+      margin-top: 10px;
+  }
+  .heading {
+      font-size: 20px;
+      font-weight: 700;
+      line-height: 110%;
+  }
+.button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 200px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 8px;
+    color: black;
+    font-size: 16px;
+    border-radius: 25px;
+}
+.buttonMain {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 300px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 8px;
+    color: black;
+    font-size: 16px;
+    border-radius: 25px;
+}
+#sendMessage {
+    margin-top: -300px;
+    margin-right: 10px;
+}
+#likeMessage1 {
+    margin-top: -200px;
+}
+#likeMessage2 {
+    margin-top: -350px;
+}
+#likeMessage3 {
+    margin-top: -250px;
+    margin-left: 300px;
+    
+}
+#postStory0 {
+    margin-top: 310px;
+    margin-left: 20px;
+    
+    
+}
+#doIt {
+    margin-top: 310px;
+    margin-left: 50px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(39, 25, 230);
+    font-size: 20px;
+    font-weight: 700;
+}
+#firstOk {
+    margin-top: 310px;
+    margin-left: 50px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(39, 25, 230);
+    font-size: 20px;
+    font-weight: 700;
+}
+#secondOk {
+    margin-top: 310px;
+    margin-left: 50px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(39, 25, 230);
+    font-size: 30px;
+    font-weight: 700;
+}
+#thirdOk {
+    margin-top: 310px;
+    margin-left: 50px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(39, 25, 230);
+    font-size: 50px;
+    font-weight: 700;
+}
+
+#postStory1 {
+    margin-top: 400px;
+    
+}
+#postStory2 {
+    margin-top: 200px;
+    
+}
+#postStory3 {
+    margin-top: 100px;
+    margin-left: 50px;
+    
+}
+
+#postStory4 {
+    margin-top: 500px;
+    margin-left: 50px;
+    
+}
+
+#postStory5 {
+    margin-top: 40px;
+    margin-left: 20px;
+    
+}
+
+#postStory6 {
+    margin-top: 310px;
+    margin-left: 50px;
+    
+    
+}
+
+#postStory7 {
+    margin-top: 410px;
+    margin-left: 10px;
+    font-size: 30px;
+    font-weight: 700;
+}
+   
+#postStory8 {
+    margin-top: 410px;
+    margin-left: 10px;
+}

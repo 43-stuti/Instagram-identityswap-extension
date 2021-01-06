@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+   "name": "Voice in your head",
+    "description": "",
+    "version": "1.0",
+    "content_scripts": [
+        {
+          "matches": [
+            "https://www.instagram.com/*"
+          ],
+          "css": ["styles.css"],
+          "js": ["jquery.min.js","messaging.js"]
+        }
+      ]
+   }
